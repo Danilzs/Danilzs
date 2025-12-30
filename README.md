@@ -49,7 +49,15 @@ Me chamo Danilo, tenho 21 anos e atualmente sou estudante do curso de Ciência d
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
   />
-       
+
+<img
+  align="left" 
+  alt="Java" 
+  title="Java"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original-wordmark.svg" 
+  />
 
 <br/>
 <br/>
